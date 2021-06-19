@@ -1,5 +1,5 @@
 ### Hi, there 👋. I am Avina Jain 👩🏼. 
-🔭I am currently an Azure DevOps support engineer at Microsoft. <img align="center" src = "https://user-images.githubusercontent.com/15092934/122647596-75d6f300-d142-11eb-9f98-cbabfb988e1a.gif" width = "200" height = "50" />
+🔭I am currently an Azure DevOps support engineer at Microsoft. 
 
 Sometimes I write articles on my [Medium blog](https://avinajain.medium.com/).
 
