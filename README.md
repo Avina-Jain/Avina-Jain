@@ -7,7 +7,7 @@ My LinkedIn profile - https://www.linkedin.com/in/avina-jain/
 
 📫 How to reach me - avinajain16@gmail.com
 
-![](https://komarev.com/ghpvc/?username=Avina-Jain)
+![](https://komarev.com/ghpvc/?username=Avina-Jain&color=brightgreen)
 
 
 <!--
